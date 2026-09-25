@@ -42,3 +42,4 @@ yarn-error.*
 
 # supabase keys
 .env
+.vercel
